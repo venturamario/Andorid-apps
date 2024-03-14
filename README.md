@@ -1,2 +1,7 @@
 # ML-in-Andorid-apps
-Use of Machine Learning in basic android apps to recognize environments, classify images, and much more
+This repository is being constantly updated.
+I am nowadays working on the design and development an Android app which uses ML to interact with its environment and allow users to do rehab exercises by playing 2D games just by moving its head.
+During the learning process to be able to do this, I am making small Android apps to test certain functionalities. This repository contains these apps
+
+## Key words
+Machine Learning, Android Studio, Android app, rehab, face tracker, 2D games
