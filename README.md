@@ -2,10 +2,19 @@
 This repository is being constantly updated.
 I am nowadays working on the design and development an Android app which uses ML to interact with its environment and allow users to do rehab exercises by playing 2D games just by moving its head.
 During the learning process to be able to do this, I am making small Android apps to test certain functionalities. This repository contains these apps
+
+## APP .01 - Nose coordinates detection
 <div>
   <img src="https://github.com/venturamario/Andorid-apps/blob/main/Face%20Landmark%20Coordinates%20Detector/Face%20Landmark%20Coordinates%20Detector%20UI.png" width="200" height="400"/>
 
 <img src="https://github.com/venturamario/Andorid-apps/blob/main/Face%20Landmark%20Coordinates%20Detector/Face%20Landmark%20Coordinates%20Detector%20Prueba.png" width="200" height="420" />
+</div>
+
+## APP .02 - Environment recognition
+<div>
+  <img src="https://github.com/venturamario/Andorid-apps/blob/main/Environment%20recognition/image%20classified%20successfully.jpg" width="200" height="400"/>
+
+<img src="https://github.com/venturamario/Andorid-apps/blob/main/Environment%20recognition/internal%20storage.png" width="200" height="420" />
 </div>
 
 
